@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |          Madhumitha R   | CB.EN.U4EEE26122       |  Feamale         |    B.Tech EEE                             |  
+|    Member 2     |           Nehaa R       |         CB.EN.U4EEE26023 | Feamle                |    B.Tech EEE                             |  
+|    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      B.Tech EEE                           |  
+|    Member 4     | Sundaraja Perumal V        |   CB.EN.U4EEE26140     |     Male            |       B.Tech EEE                          |   
+|    Member 5     |   Rithikasree R           |        CB.EN.U4EEE26129|       Female          |        B.Tech EEE                         |  
+|    Member 6     |            Rithvikha E             |       CB.EN.U4EEE26130   |     Female      |        B.Tech EEE                         |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Jayakumar M        |  Assistant Professor  | B.Tech EEE             | m_jayakumar2@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:
-* **Problem Statement Title:
-* **Theme / Category:
-* **Ministry / Organization:
+* **Problem Statement ID:26021
+* **Problem Statement Title: Honey Chain: A block chain-based system for honey traceability and smart beekeeping management.
+* **Theme / Category: Agriculture, FoodTech & Rural Development
+* **Ministry / Organization: Ministry of MSME
