@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:26083
+* **Problem Statement Title: Extreme Heatwave Early Warning and Human Thermal Stress Index
+* **Theme / Category: Disaster Management
+* **Ministry / Organization: Ministry of Earth Sciences(MoES)
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:
+* **Problem Statement Title:
+* **Theme / Category:
+* **Ministry / Organization:
