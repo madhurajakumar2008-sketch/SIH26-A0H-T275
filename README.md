@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |          Madhumitha R   | CB.EN.U4EEE26122       |  Feamale         |    B.Tech EEE                             |  
-|    Member 2     |           Nehaa R       |         CB.EN.U4EEE26023 | Feamle                |    B.Tech EEE                             |  
-|    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      B.Tech EEE                           |  
-|    Member 4     | Sundaraja Perumal V        |   CB.EN.U4EEE26140     |     Male            |       B.Tech EEE                          |   
-|    Member 5     |   Rithikasree R           |        CB.EN.U4EEE26129|       Female          |        B.Tech EEE                         |  
-|    Member 6     |            Rithvikha E             |       CB.EN.U4EEE26130   |     Female      |        B.Tech EEE                         |   
+|   Team Leader   |          Madhumitha R   | CB.EN.U4EEE26122       |  Feamale         |     EEE                             |  
+|    Member 2     |           Nehaa R       |         CB.EN.U4EEE26023 | Feamle                |   EEE                             |  
+|    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      EEE                           |  
+|    Member 4     | Sundaraja Perumal V        |   CB.EN.U4EEE26140     |     Male            |       EEE                          |   
+|    Member 5     |   Rithikasree R           |        CB.EN.U4EEE26129|       Female          |       EEE                         |  
+|    Member 6     |            Rithvikha E             |       CB.EN.U4EEE26130   |     Female      |        EEE                         |   
 
 #### Mentor Details
 
