@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T275
 ### Team Details
-#### **Team Name** Tech Indians
+#### **Team Name** TECH INDIANS
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |   Jayakumar M        |  Assistant Professor  | B.Tech EEE             | m_jayakumar2@cb.amrita.edu  |
+| Academic       |   Jayakumar M        |  Assistant Professor  |  EEE             | m_jayakumar2@cb.amrita.edu  |
 | Industry       |                     |                       |                         |                          |
 
 -----
