@@ -13,7 +13,7 @@
 |:---------:|:---------------:|:------------------:|:------------:|:-----------------:|:-----------:|:--------:| 
 |   Team Leader   |          Madhumitha R   | CB.EN.U4EEE26122       |  Female         |     EEE   | BC |  None|        
 |    Member 2     |           Nehaa R       |         CB.EN.U4EEE26023 | Female              |   EEE | others | None|        
-|    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      EEE  | BC | None|  
+|    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      EEE  | others | None|  
 |    Member 4     | Sundaraja Perumal V        |   CB.EN.U4EEE26140     |     Male            |       EEE | BC | None |      
 |    Member 5     |   Rithikasree R           |        CB.EN.U4EEE26129|       Female          |       EEE | BC | None |     
 |    Member 6     |            Rithvikha E             |       CB.EN.U4EEE26130   |     Female      |    EEE | BC | None|        
