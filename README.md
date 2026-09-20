@@ -10,7 +10,7 @@
 #### **Team Name** TECH INDIANS
 #### Team Members
 |      Role |  👤 Name  | 🎓 Roll Number  | ⚧️ Gender | 🏫 Department / Programme| Caste Category| Disability Details|
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
+|:---------:|:---------------:|:------------------:|:------------:|:-----------------:|:-----------:|:--------:| 
 |   Team Leader   |          Madhumitha R   | CB.EN.U4EEE26122       |  Feamale         |     EEE   | BC|  None|        
 |    Member 2     |           Nehaa R       |         CB.EN.U4EEE26023 | Feamle                |   EEE | BC | None|        
 |    Member 3     |   M.Mithul Kiruthik       |  CB.EN.U4EEE26123    |      Male           |      EEE  | BC| None|  
